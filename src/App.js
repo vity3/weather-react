@@ -22,7 +22,7 @@ export default function App() {
     <div>
       <small>
         <a
-          href="https://github.com/vity3/my-wonderful-weather-app" target="_blank"
+          href="https://github.com/vity3/weather-react" target="_blank"
         >
           Open-source code
         </a>
