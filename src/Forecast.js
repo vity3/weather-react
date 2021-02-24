@@ -8,11 +8,11 @@ export default function Forecast() {
         <span className="value-temperature"></span>
         <span className="units">
           0°
-          <a href="#" className="celsius-link" class="active">
+          <a href="/" className="celsius-link" class="active">
             C
           </a>
           |
-          <a href="#" className="fahrenheit-link">
+          <a href="/" className="fahrenheit-link">
             F
           </a>
         </span>
