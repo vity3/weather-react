@@ -1,0 +1,34 @@
+.search-form {
+  margin: 8px 10px 0;
+}
+
+.search-form #city-input {
+  width: 100%;
+  border: 1.5px solid;
+  border-color: #feb72b;
+  border-radius: 5px;
+  box-shadow: 0 0 8px #fddb3a;
+}
+
+.search-form #search-button,
+#current-button {
+  height: 36px;
+  width: 100px;
+  box-shadow: 0 0 5px #feb72b;
+  transition: all 500ms ease-in-out;
+  border-radius: 7px;
+  font-weight: bold;
+}
+
+.search-form #search-button {
+  background: #335d2d;
+}
+.search-form #current-button {
+  background: #899857;
+}
+.search-form #search-button:hover,
+#current-button:hover {
+  background: #a20a0a;
+  cursor: pointer;
+  opacity: 0.95;
+}

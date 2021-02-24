@@ -1,0 +1,25 @@
+.main-information {
+  margin: 10px 0;
+  font-size: 33px;
+  font-weight: bold;
+  text-shadow: 0 0 1px #fddb3a, 0 0 1px #fddb3a;
+  text-transform: capitalize;
+}
+
+.fa-snowflake {
+  margin: 0 auto;
+  width: 30px;
+  height: 30px;
+}
+
+.value-temperature {
+  font-size: 50px;
+}
+
+.main-information .active {
+  color: #000;
+  cursor: default;
+}
+.main-information .active:hover {
+  text-decoration: none;
+}

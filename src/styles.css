@@ -1,0 +1,44 @@
+body {
+  font-family: "Merriweather", serif;
+}
+h1 {
+  margin: 5px 23px 0;
+  font-size: 58px;
+  font-weight: bold;
+  color: #a20a0a;
+  text-shadow: 0 0 3px #fc8621, 0 0 3px #fc8621;
+  text-align: left;
+}
+
+h2 {
+  color: #335d2d;
+  font-weight: bold;
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+
+ul {
+  list-style: none;
+  margin: 0 auto;
+  padding: 0;
+  color: #335d2d;
+}
+
+p {
+  font-weight: bold;
+  font-size: 23px;
+  color: #feb72b;
+  text-shadow: 0 0 1px #06623b, 0 0 1px #06623b;
+  text-align: center;
+}
+
+.App {
+  background-image: linear-gradient(60deg, #abecd6 0%, #fbed96 100%);
+  border: 2px solid;
+  color: #feb72b;
+  padding: 10px;
+  margin: 5px auto;
+  max-width: 550px;
+  border-radius: 5px;
+  box-shadow: 0 0 8px #fddb3a;
+}
